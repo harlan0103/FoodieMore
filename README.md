@@ -1,6 +1,6 @@
 # FoodieMore
 <b>CMPS121: Mobile Applications</b><br/> 
-<b>SPRING 2017</b>
+<b>SPRING 2017 @ University of California, Santa Cruz</b>
 
 ## Overview
 FoodieMore is an android app trying to provide a platform for both restaurant owners and customers.<br/><br/>
